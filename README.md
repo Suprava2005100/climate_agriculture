@@ -78,6 +78,5 @@ Use Linear Regression for simple 2-feature predictions.
 Use Random Forest for accurate multi-feature predictions.
 
 
-Author
-
+##Author
 Suprava – B.Tech ECE | Aspiring Full-Stack & Software Developer
